@@ -30,7 +30,7 @@ function setup() {
 	    height: 700,
 	    wireframes: false
 	  }
-	});
+	}); 
 
 	Engine.run(engine);
 	//Render.run(render);
